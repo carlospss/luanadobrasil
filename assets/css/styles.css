@@ -32,6 +32,7 @@ body {
 .logo-header2 {
   display: flex;
   justify-content: center;
+  flex-direction: column;
 }
 .logo-header2 img{
     width: 450px;
